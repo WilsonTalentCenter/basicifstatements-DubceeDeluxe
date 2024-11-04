@@ -13,7 +13,6 @@ public class Main {
         //get a line of input convert and save the input into an integer variable (you can assume the user enters a  valid whole number)
         String userInput = scannerObject.nextLine();
         int x = Integer.parseInt(userInput);
-        System.out.println(x);
         //write an if statement that prints "hello world" if the input was less than 4
         if (x<4) {
             System.out.println("hello world");
