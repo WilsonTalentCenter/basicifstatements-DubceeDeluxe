@@ -9,7 +9,7 @@ public class Main {
         //create a scanner object reading from System.in
         Scanner scannerObject = new Scanner(System.in);
         //print out:  enter a whole number
-        System.out.println("enter a whole number");
+        System.out.println("Enter a whole number:");
         //get a line of input convert and save the input into an integer variable (you can assume the user enters a  valid whole number)
         String userInput = scannerObject.nextLine();
         int x = Integer.parseInt(userInput);
