@@ -27,11 +27,11 @@ public class Main {
         }
         //write an if statement that prints out "When does a joke become a dad joke?"  if the input was equal to 8
         if (x==8) {
-            System.out.println("When does a dad joke become a dad joke?");
+            System.out.println("When does a joke become a dad joke?");
         }
         //write an if statement that prints out "When it becomes apparent."  if the input was greater than or equal to 8
         if (x>=8) {
-            System.out.println("When it becomes apparent");
+            System.out.println("When it becomes apparent.");
         }
         //write an if statement that prints out "I used to hate facial hair," if the input is less than or equal to 12
         if (x<=12) {
